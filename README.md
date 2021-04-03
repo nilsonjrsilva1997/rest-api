@@ -1,2 +1,2 @@
 # rest-api
-API rest with node js
+A simple rest API with node js.
