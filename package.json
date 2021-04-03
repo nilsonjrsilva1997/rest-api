@@ -21,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/nilsonjrsilva1997/rest-api/issues"
   },
-  "homepage": "https://github.com/nilsonjrsilva1997/rest-api#readme"
+  "homepage": "https://github.com/nilsonjrsilva1997/rest-api#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
